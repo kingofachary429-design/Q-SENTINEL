@@ -295,7 +295,11 @@ Future development may include:
 * Integration with physical security hardware
 
 ---
+## 📊 Dashboard Demo
 
+Q-SENTINEL provides an interactive security monitoring dashboard for testing and demonstrating its authentication, quantum challenge, tamper detection, attack simulation, and security monitoring modules.
+
+![Q-SENTINEL Dashboard](Q-SENTINEL-dashboard.png)
 ## ⚠️ Disclaimer
 
 Q-SENTINEL is an experimental and educational security project.

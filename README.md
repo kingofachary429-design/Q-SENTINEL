@@ -1,6 +1,10 @@
 
 # Q-SENTINEL
-
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![Qiskit](https://img.shields.io/badge/Qiskit-Quantum-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ## Quantum-Enhanced Intelligent Security and Threat Monitoring System
 
 Q-SENTINEL is a modular security system that integrates multiple authentication, threat detection, tamper monitoring, quantum security concepts, and security simulation capabilities into a unified platform.

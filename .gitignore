@@ -1,0 +1,8 @@
+face_verification/data/
+*.jpg
+*.jpeg
+*.png
+*.onnx
+__pycache__/
+*.pyc
+logs/*.log
